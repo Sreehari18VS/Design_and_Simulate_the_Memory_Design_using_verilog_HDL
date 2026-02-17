@@ -1,5 +1,7 @@
 # Design_and_Simulate_the_Memory_Design_using_verilog_HDL
-# Aim To design and simulate a RAM,ROM,FIFO using Verilog HDL, and verify its functionality through a testbench in the Vivado 2023.1 environment. 
+# EXP NO:5. Design-and-Simulate the-Memory-Design-using-Verilog-HDL
+# Aim 
+To design and simulate a RAM,ROM,FIFO using Verilog HDL, and verify its functionality through a testbench in the Vivado 2023.1 environment. 
 
 # Apparatus Required 
 Vivado 2023.1 
